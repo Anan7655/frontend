@@ -64,7 +64,7 @@ function Lab() {
           </span>
         </h2>
         <p className="text-muted">
-          Interactive showcase — deck building, media, tables and dynamic DOM.
+          Interactive showcase — deck building, media, tables and dynamic Events.
         </p>
       </header>
 
